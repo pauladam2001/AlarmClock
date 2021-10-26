@@ -8,6 +8,6 @@
 ---
 # Functionalities
 - Set an alarm and an optional message. When it is the time, you will get a notification containing the message on your screen and a sound will pe played.
---0
+---
 # Demo
 - 
